@@ -11,6 +11,19 @@ Descargamos la versión para la plataforma que vamos usamos en la parte de [desc
 Luego para generar el script para minar vamos al [wizard](https://xmrig.com/wizard)
 
 
+Vamos a nueva configuración, elegimos la pool donde estamos en este caso es minexmr en backends elegimos solo cpu  en misc lo que quieras donar al pool y luego obtienes el resultado  
+
+
+luego en la terminal donde descargamos el minero ejecutamos la linea que suelta el script 
+
+
+el resultado para linux por ejemplo es 
+
+
+~~~
+sudo ./xmrig -o us-west.minexmr.com:443 -u MIIDDELAWALLET -k --tls --rig-id mineroDONALEX
+~~~
+
 
 
 
