@@ -1,6 +1,13 @@
 # MinandoMonero
+
+## Monero 
  
-![Logo xmrig]() 
+![Logo xmrig](https://s2.coinmarketcap.com/static/img/coins/200x200/328.png) 
+
+Monero es una crypto divisa que entre sus caracteristicas más resaltantes está su opacidad en las transferencias y su facil acceso para minar.
+
+
+
 
 Cómo minar monero  por cpu
 
