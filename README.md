@@ -1,4 +1,6 @@
 # MinandoMonero
+ 
+![Logo xmrig]() 
 
 Cómo minar monero  por cpu
 
