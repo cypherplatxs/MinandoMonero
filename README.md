@@ -1,4 +1,4 @@
-# MinandoMonero
+# Minar Monero por cpu en linux 
 
 ## Monero 
  
@@ -20,11 +20,9 @@ Después de crear nuestra wallet podemos tener acceso a nuestra dirección para 
 ![recive monero](https://github.com/cypherplatxs/MinandoMonero/blob/main/pics%20monero/moneroenlinux.png)
 
 
-
  Cómo minar monero  por cpu ?
  
  
-
 
 Vamos a la web de [xmrig](https://xmrig.com/) que es el minero que vamos a usar
 
