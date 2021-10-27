@@ -63,6 +63,7 @@ sudo ./xmrig -o us-west.minexmr.com:443 -u MIIDDELAWALLET -k --tls --rig-id mine
 ~~~
 
 
+![how to](https://github.com/cypherplatxs/MinandoMonero/blob/main/pics%20monero/MINARMONEROENLINUX.gif)
 
 
 
