@@ -6,6 +6,12 @@
 
 Monero es una crypto divisa que entre sus caracteristicas más resaltantes está su opacidad en las transferencias y su facil acceso para minar.
 
+### Crear una wallet 
+
+El primer paso para minar cualquier crypto es tener una wallet o billetera en la que puedas reclamar las recompensas de tu minero, existen varias wallets que reciben monero como son [exodus](https://www.exodus.com/) [freewallet](https://freewallet.org/) [trust](https://trustwallet.com/es/) 
+
+Despues de crear nuestra wallet podemos tener acceso a nuestra dirección para recibir monero
+
 
 
 
